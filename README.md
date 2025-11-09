@@ -105,6 +105,6 @@
 
 <div align="center">
   <p><strong>© 2025 – HCMUTE Project </strong></p>
-  <p><i>Nguyễn Phạm Huy Hoàng - 22161125</i> |
+  <p><i>Nguyễn Phạm Huy Hoàng - 22161125</i> 
   <p><em>Precision time. Environmental awareness. Green House.</em></p>
 </div>
