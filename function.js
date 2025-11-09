@@ -1,13 +1,13 @@
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyD6AVt4SPQeicno-1HV8Ny8-6UfQAc0mnY",
-  authDomain: "greenhouse-46794.firebaseapp.com",
-  databaseURL: "https://greenhouse-46794-default-rtdb.firebaseio.com",
-  projectId: "greenhouse-46794",
-  storageBucket: "greenhouse-46794.firebasestorage.app",
-  messagingSenderId: "654406931247",
-  appId: "1:654406931247:web:1681ef09807bf660fec7da",
-  measurementId: "G-1ZZ0R6156M"
+  apiKey: "AIzaSyABOtFUg13HDhXPMJLlRiFIRPnWJiRiyq0",
+  authDomain: "greenhouse-f4a31.firebaseapp.com",
+  databaseURL: "https://greenhouse-f4a31-default-rtdb.firebaseio.com",
+  projectId: "greenhouse-f4a31",
+  storageBucket: "greenhouse-f4a31.firebasestorage.app",
+  messagingSenderId: "689846234688",
+  appId: "1:689846234688:web:bcf8b6b250d44dbee1f9a5",
+  measurementId: "G-1QCKJSDXCX"
 };
 
 // Initialize Firebase

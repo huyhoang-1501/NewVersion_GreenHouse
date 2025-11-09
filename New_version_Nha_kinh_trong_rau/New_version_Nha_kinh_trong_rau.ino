@@ -7,8 +7,8 @@
 #define WIFI_PASSWORD "99999999"
 
 // Firebase
-#define FIREBASE_HOST "https://greenhouse-46794-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "yE66g4zyWlyHUS8X1DNHU8hwwihhGggab8McqSYC"
+#define FIREBASE_HOST "https://greenhouse-f4a31-default-rtdb.firebaseio.com/"
+#define FIREBASE_AUTH "BZrUNKv9FKFaXvav4yrruc3FfVLFSkAjerxqiXrE"
 
 // DHT11
 #define DHTPIN 4
