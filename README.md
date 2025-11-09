@@ -19,6 +19,7 @@
   </p>
   ---
 </div>
+
 <br>
 
 ## Overview
@@ -76,6 +77,7 @@
   - Firebase-ESP32
   - DHT sensor library
   - WiFi (built-in)
+  
 <br>
 
 ## Image
@@ -88,7 +90,8 @@
 ![Image](https://github.com/user-attachments/assets/cdb4f8ce-4a4a-415d-a0a2-e2839d8b8504)
 
 ## Chart 
-![Image](https://github.com/user-attachments/assets/212785f4-5bef-4c6f-a705-1adf44ef096)
+![Image](https://github.com/user-attachments/assets/7b5df57d-4a2e-4a7a-ba80-f23aa84c22d1)
+
 <br>
 
 ## Demo Video
