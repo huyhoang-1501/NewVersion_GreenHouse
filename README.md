@@ -101,7 +101,7 @@
 <br>
 
 ## Demo Video
-[![Demo Video](https://github.com/user-attachments/assets/f1a7e4cf-0209-403c-af77-dd950d47fb90)](https://www.youtube.com/watch?v=LrGv_cqwNVA)
+[![Demo Video](https://github.com/user-attachments/assets/7029b550-f158-4dbf-a1a6-aa1697cb0a57)](https://www.youtube.com/watch?v=LrGv_cqwNVA)
 
 <div align="center">
   <p><strong>© 2025 – HCMUTE Project </strong></p>
