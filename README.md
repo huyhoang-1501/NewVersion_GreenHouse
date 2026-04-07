@@ -1,25 +1,6 @@
 <div align="center">
   <h1>Smart Greenhouse Monitoring & Control System</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Microcontroller-ESP32-blueviolet?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-    <img src="https://img.shields.io/badge/Sensor-DHT11-green?style=for-the-badge&logo=temperature&logoColor=white" alt="DHT11">
-    <img src="https://img.shields.io/badge/Sensor-MQ--2-orange?style=for-the-badge&logo=gas&logoColor=white" alt="MQ-2">
-    <img src="https://img.shields.io/badge/Actuators-Relay%20Modules-blue?style=for-the-badge&logo=plug&logoColor=white" alt="Relays">
-    <img src="https://img.shields.io/badge/Cloud-Firebase-critical?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-    <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-brightgreen?style=for-the-badge&logo=html5&logoColor=white" alt="Web">
-  </p>
-  ---
-  <p>
-    <a href="#-overview">Overview</a> •
-    <a href="#-key-features">Key Features</a> •
-    <a href="#-setup-guide">Setup Guide</a> •
-    <a href="#-web-dashboard">Web Dashboard</a> •
-    <a href="#-screenshots">Screenshots</a>
-  </p>
-  ---
 </div>
-
 <br>
 
 ## Overview
